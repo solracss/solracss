@@ -9,7 +9,7 @@ Currently working on HTML, CSS
 <br/>
 🗺 **ROADMAP:**
 - [x] Create GitHub
-- [ ] HTML, CSS :muscle:
+- [ ] HTML, CSS :hourglass_flowing_sand: (in progress)
 - [ ] JS
 - [ ] REACT
 <br/>
