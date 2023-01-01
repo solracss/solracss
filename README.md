@@ -4,7 +4,8 @@
 <br/>
 ## 👨‍🎓 Learning
 
-Currently working on HTML, CSS
+Currently working on HTML, CSS and learning some C#.<br/>
+Building console app ![PhoneBook](https://github.com/solracss/Phonebook).
 <br/>
 <br/>
 🗺 **ROADMAP:**
