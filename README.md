@@ -1,6 +1,6 @@
 # Hi, I'm Carlos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=24&color=ADBAC7&Center=true&width=680&height=35&lines=Software+manual+tester;that+loves+to+become+web+developer;Join+me+on+my+journey)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=24&color=ADBAC7&Center=true&width=680&height=35&lines=Join+me+on+my+journey;of+becoming+web+developer)](https://git.io/typing-svg)
 <br/>
 ## 👨‍🎓 Learning
 
