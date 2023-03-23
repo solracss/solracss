@@ -5,7 +5,7 @@
 ## 👨‍🎓 Learning
 
 Currently working on HTML, CSS and learning some C#.<br/>
-Building <a href="https://github.com/solracss/reservation-api">Reservation API in .NET CORE</a>
+Building  [Reservation API](https://github.com/solracss/reservation-api) in .NET CORE
 <br/>
 <br/>
 🗺 **ROADMAP:**
