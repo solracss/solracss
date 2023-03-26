@@ -27,8 +27,8 @@ My little pet is hungry...
 <details>
 <summary>:star:<b>My GitHub in numbers</b></summary><br/>
 
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=solracss&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)<br/>
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=solracss&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/>
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=solracss&count_private=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=solracss&count_private=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/>
 ![](https://komarev.com/ghpvc/?username=solracss&style=flat&label=Profile+Views&color=grey)
 </details>
 
