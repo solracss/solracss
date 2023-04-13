@@ -4,10 +4,17 @@
 <br/>
 ## 👨‍🎓 Learning
 
-Currently working on HTML, CSS and learning some C#.<br/>
-Building  [Reservation API](https://github.com/solracss/reservation-api) in .NET CORE
-<br/>
-<br/>
+Currently working on HTML, CSS and learning some C#.
+
+
+### Some apps that I've build
+ - C#
+    - [PhoneBook](https://github.com/solracss/Phonebook#phonebook-app) console app to practice basics of C#
+    - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
+ 
+
+
+
 🗺 **ROADMAP:**
 - [x] Create GitHub
 - [ ] HTML, CSS :hourglass_flowing_sand: (in progress)
