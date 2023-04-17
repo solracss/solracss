@@ -15,13 +15,6 @@ Currently working on HTML, CSS and learning some C#.
 
 
 
-🗺 **ROADMAP:**
-- [x] Create GitHub
-- [ ] HTML, CSS :hourglass_flowing_sand: (in progress)
-- [ ] JS
-- [ ] REACT
-<br/>
-<br/>
 My little pet is hungry...
 
 ![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
