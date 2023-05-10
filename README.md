@@ -12,10 +12,9 @@ Currently working on HTML, CSS and learning some C#.
     - [PhoneBook](https://github.com/solracss/Phonebook#phonebook-app) console app to practice basics of C#
     - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
  
+### My websites
+ - [Credit Card Validator](https://solracss.github.io/creditCardValidator/index.html)
 
-
-
-My little pet is hungry...
 
 ![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
 
