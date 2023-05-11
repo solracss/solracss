@@ -13,7 +13,7 @@ Currently working on HTML, CSS and learning some C#.
     - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
  
 ### My websites
- - [Credit Card Validator](https://github.com/solracss/creditCardValidator/tree/main)
+ - <a href="https://github.com/solracss/creditCardValidator/tree/main" target="_blank">Credit Card Validator</a>
 
 
 ![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
