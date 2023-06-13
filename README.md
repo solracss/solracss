@@ -15,8 +15,12 @@ Currently working on HTML, CSS and learning some C#.
 ### My websites
  - [Credit Card Validator](https://github.com/solracss/creditCardValidator/tree/main)
 
-![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
 
+### Pages re-creation for HTML & CSS practice
+- [Tomato Timer](https://github.com/solracss/tomato-timer-re-creation)
+
+
+![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
 
 
 ## Contact me
