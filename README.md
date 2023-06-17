@@ -19,6 +19,13 @@ Currently working on HTML, CSS and learning some C#.
 ### Pages re-creation for HTML & CSS practice
 - [Tomato Timer](https://github.com/solracss/tomato-timer-re-creation)
 
+### Frontend Mentor Challenges
+<details>
+<summary>Challenges that I've completed</summary>
+
+ - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
+</details>
+
 
 ![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
 
