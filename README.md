@@ -6,25 +6,20 @@
 
 Currently working on HTML, CSS and learning some C#.
 
+### Frontend Mentor Challenges
+<details>
+<summary>CLICK TO OPEN</summary>
+
+ - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
+ - [NFT Card](https://github.com/solracss/FrontendMentor-nft-card)
+</details>
+
 
 ### Some apps that I've build
  - C#
     - [PhoneBook](https://github.com/solracss/Phonebook#phonebook-app) console app to practice basics of C#
     - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
  
-### My websites
- - [Credit Card Validator](https://github.com/solracss/creditCardValidator/tree/main)
-
-
-### Pages re-creation for HTML & CSS practice
-- [Tomato Timer](https://github.com/solracss/tomato-timer-re-creation)
-
-### Frontend Mentor Challenges
-<details>
-<summary>Challenges that I've completed</summary>
-
- - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
-</details>
 
 
 ![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
