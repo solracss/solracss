@@ -10,8 +10,11 @@ Currently working on HTML, CSS and learning some C#.
 <details>
 <summary>CLICK TO OPEN</summary>
 
- - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
+ - [Profile card](https://github.com/solracss/FrontendMentor-profile-card)
+ - [Product preview](https://github.com/solracss/FrontendMentor-product-preview-card)
  - [NFT Card](https://github.com/solracss/FrontendMentor-nft-card)
+ - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
+ 
 </details>
 
 
