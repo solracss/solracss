@@ -10,6 +10,7 @@ Currently working on HTML, CSS and learning some C#.
 <details>
 <summary>CLICK TO OPEN</summary>
 
+ - [Order Summary](https://github.com/solracss/FrontendMentor-order-summary)
  - [Profile card](https://github.com/solracss/FrontendMentor-profile-card)
  - [Product preview](https://github.com/solracss/FrontendMentor-product-preview-card)
  - [NFT Card](https://github.com/solracss/FrontendMentor-nft-card)
