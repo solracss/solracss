@@ -9,7 +9,7 @@ Currently working on HTML, CSS and learning some C#.
 ### Frontend Mentor Challenges
 <details>
 <summary>CLICK TO OPEN</summary>
-
+ - [Huddle landing page](https://github.com/solracss/FrontendMentor-Huddle-landing-page-with-single-introductory-section)
  - [Order Summary](https://github.com/solracss/FrontendMentor-order-summary)
  - [Profile card](https://github.com/solracss/FrontendMentor-profile-card)
  - [Product preview](https://github.com/solracss/FrontendMentor-product-preview-card)
