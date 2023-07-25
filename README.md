@@ -20,6 +20,7 @@
 <details>
 <summary>CLICK TO OPEN</summary>
 
+- [3 column preview card](https://github.com/solracss/fem-3-collumn-preview-card)
 - [Stats preview card](https://github.com/solracss/fem-stats-preview-card)
 - [Single price grid](https://github.com/solracss/fem-single-price-component)
 - [Huddle landing page](https://github.com/solracss/FrontendMentor-Huddle-landing-page-with-single-introductory-section)
