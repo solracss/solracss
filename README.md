@@ -20,6 +20,7 @@
 <details>
 <summary>CLICK TO OPEN</summary>
 
+- [Result summary component](https://github.com/solracss/fem-results-summary-component)
 - [3 column preview card](https://github.com/solracss/fem-3-collumn-preview-card)
 - [Stats preview card](https://github.com/solracss/fem-stats-preview-card)
 - [Single price grid](https://github.com/solracss/fem-single-price-component)
