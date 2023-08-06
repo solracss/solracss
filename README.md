@@ -1,9 +1,6 @@
-# Hi, I'm Carlos
+# Join me on my journey of becoming web developer.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans&size=24&color=ADBAC7&Center=true&width=680&height=35&lines=Join+me+on+my+journey;of+becoming+web+developer)](https://git.io/typing-svg)
-<br/>
-
-## :world_map: How I plan to get there :bicyclist:
+### :world_map: How I plan to get there :bicyclist:
 
 :man_student: Learn:
 - HTML :hourglass_flowing_sand:
@@ -12,8 +9,6 @@
 - when I will be here, pick one frontend framework
 
 :weight_lifting_man: Do a lot of projects:
- - atm, practicing HMTL and CSS basics doing challenges on [FEM](https://www.frontendmentor.io/challenges?difficulty=1&languages=CSS)
-
 
 ### Frontend Mentor Challenges
 
@@ -33,11 +28,17 @@
 
 </details>
 
-### Some apps that I've build
+### Some other apps that I've build
 
+<details>
+<summary>CLICK TO OPEN</summary>
+ 
 - C#
   - [PhoneBook](https://github.com/solracss/Phonebook#phonebook-app) console app to practice basics of C#
   - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
+
+
+</details>
 
 ![Snake animation](https://github.com/solracss/solracss/blob/output/github-contribution-grid-snake.svg)
 
