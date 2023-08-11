@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/solracss/solracss/blob/main/github-header-image4.png" align="center">
+ <img src="https://github.com/solracss/solracss/blob/main/github-header-image.png" align="center">
 </p>
 <br>
 <p>As a dedicated tester by day, I'm following my heart's compass into the realm of frontend development. Driven by a love for crafting captivating user interfaces, I'm embracing the journey of change. <br>
