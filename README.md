@@ -1,14 +1,12 @@
-# Join me on my journey of becoming web developer.
+<p align="center">
+ <img src="https://github.com/solracss/solracss/blob/main/github-header-image4.png" align="center">
+</p>
+<br>
+<p>As a dedicated tester by day, I'm following my heart's compass into the realm of frontend development. Driven by a love for crafting captivating user interfaces, I'm embracing the journey of change. <br>
+Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the world of web design!</p>
+<br>
 
-### :world_map: How I plan to get there :bicyclist:
-
-:man_student: Learn:
-- HTML :hourglass_flowing_sand:
-- CSS :hourglass_flowing_sand:
-- JS
-- when I will be here, pick one frontend framework
-
-:weight_lifting_man: Do a lot of projects:
+## Projects
 
 ### Frontend Mentor Challenges
 
@@ -40,6 +38,12 @@
 
 </details>
 
+<br>
+
+## Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,figma,vscode,git,github)
+
+<br>
 
 ## Contact me
 
@@ -47,14 +51,11 @@
 
 ##
 
-<details>
-<summary>:star:<b>My GitHub in numbers</b></summary><br/>
 
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=solracss&count_private=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=solracss&count_private=true&layout=compact&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)<br/>
-![](https://komarev.com/ghpvc/?username=solracss&style=flat&label=Profile+Views&color=grey)
 
-</details>
+
 
 ---
 
