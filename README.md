@@ -2,7 +2,7 @@
  <img src="https://github.com/solracss/solracss/blob/main/github-header-image.png" align="center">
 </p>
 <br>
-<p>As a dedicated tester by day, I'm following my heart's compass into the realm of frontend development. Driven by a love for crafting captivating user interfaces, I'm embracing the journey of change. <br>
+<p align="center">As a dedicated tester by day, I'm following my heart's compass into the realm of frontend development. <br>
 Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the world of web design!</p>
 <br>
 
@@ -12,7 +12,7 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 
 <details>
 <summary>CLICK TO OPEN</summary>
-
+ 
 - [Result summary component](https://github.com/solracss/fem-results-summary-component)
 - [3 column preview card](https://github.com/solracss/fem-3-collumn-preview-card)
 - [Stats preview card](https://github.com/solracss/fem-stats-preview-card)
@@ -23,26 +23,16 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 - [Product preview](https://github.com/solracss/FrontendMentor-product-preview-card)
 - [NFT Card](https://github.com/solracss/FrontendMentor-nft-card)
 - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
-
 </details>
 
 ### Some other apps that I've build
 
-<details>
-<summary>CLICK TO OPEN</summary>
- 
-- C#
-  - [PhoneBook](https://github.com/solracss/Phonebook#phonebook-app) console app to practice basics of C#
-  - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
-
-
-</details>
-
+- [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
 <br>
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,figma,vscode,git,github)
 
+![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,vscode,figma,git,github)
 <br>
 
 ## Contact me
