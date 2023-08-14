@@ -10,6 +10,9 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 
 ### Frontend Mentor Challenges
 
+Last:
+- [4 card secton](https://github.com/solracss/fem-4-card-feature-section) (vite, grid, sass - loops, mixins, if/else)
+
 <details>
 <summary>CLICK TO OPEN</summary>
  
