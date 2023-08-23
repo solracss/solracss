@@ -11,11 +11,14 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 ### Frontend Mentor Challenges
 
 Last:
-- [4 card secton](https://github.com/solracss/fem-4-card-feature-section) (vite, grid, sass - loops, mixins, if/else)
+
+- [Testimonial grid section](https://github.com/solracss/fem-testimonials-grid-section) (Sass, grid, flexbox)
+- [4 card secton](https://github.com/solracss/fem-4-card-feature-section) 
+
 
 <details>
 <summary>CLICK TO OPEN</summary>
- 
+
 - [Result summary component](https://github.com/solracss/fem-results-summary-component)
 - [3 column preview card](https://github.com/solracss/fem-3-collumn-preview-card)
 - [Stats preview card](https://github.com/solracss/fem-stats-preview-card)
