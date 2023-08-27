@@ -12,7 +12,8 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 
 Last:
 
-- [Testimonial grid section](https://github.com/solracss/fem-testimonials-grid-section) (Sass, grid, flexbox)
+- [Data storage component](https://github.com/solracss/fem-fylo-data-storage-component)
+- [Testimonial grid section](https://github.com/solracss/fem-testimonials-grid-section)
 - [4 card secton](https://github.com/solracss/fem-4-card-feature-section) 
 
 
