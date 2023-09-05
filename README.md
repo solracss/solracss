@@ -8,18 +8,16 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 
 ## Projects
 
-### Frontend Mentor Challenges
-
-Last:
-
-- [Data storage component](https://github.com/solracss/fem-fylo-data-storage-component)
-- [Testimonial grid section](https://github.com/solracss/fem-testimonials-grid-section)
-- [4 card secton](https://github.com/solracss/fem-4-card-feature-section) 
+- [Equalizer landing page](https://github.com/solracss/fem-equalizer-landing-page)
 
 
 <details>
-<summary>CLICK TO OPEN</summary>
+<summary>More here (CLICK TO OPEN)</summary>
 
+### HTML, CSS
+- [Data storage component](https://github.com/solracss/fem-fylo-data-storage-component)
+- [Testimonial grid section](https://github.com/solracss/fem-testimonials-grid-section)
+- [4 card secton](https://github.com/solracss/fem-4-card-feature-section) 
 - [Result summary component](https://github.com/solracss/fem-results-summary-component)
 - [3 column preview card](https://github.com/solracss/fem-3-collumn-preview-card)
 - [Stats preview card](https://github.com/solracss/fem-stats-preview-card)
@@ -32,7 +30,7 @@ Last:
 - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
 </details>
 
-### Some other apps that I've build
+#### Some other apps that I've build
 
 - [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
 <br>
