@@ -7,7 +7,7 @@
 <p align="center">As a dedicated functional tester by day, I'm following my heart's compass into the realm of frontend development. <br>
 <br>
 
-- 🏗 What I'm building now: [Meet landing page](https://github.com/solracss/fem-meet-landing-page)
+- 🏗 What I'm building now: 
 
 - 👨‍🎓 Learning now: **Mastering HTML and CSS**
 
@@ -18,6 +18,7 @@
 
 ## Projects
 
+- [Meet landing page](https://github.com/solracss/fem-meet-landing-page)
 - [Equalizer landing page](https://github.com/solracss/fem-equalizer-landing-page)
 
 
