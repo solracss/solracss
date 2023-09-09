@@ -1,10 +1,20 @@
 <p align="center">
  <img src="https://github.com/solracss/solracss/blob/main/github-header-image.png" align="center">
 </p>
+<h1 align="center">Hi 👋, I'm Solracss</h1>
+<h3 align="center">Welecome on my Github profile</h3>
+
+<p align="center">As a dedicated functional tester by day, I'm following my heart's compass into the realm of frontend development. <br>
 <br>
-<p align="center">As a dedicated tester by day, I'm following my heart's compass into the realm of frontend development. <br>
-Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the world of web design!</p>
-<br>
+
+- 🏗 What I'm building now: [Meet landing page](https://github.com/solracss/fem-meet-landing-page)
+
+- 👨‍🎓 Learning now: **Mastering HTML and CSS**
+
+- 🗺 Plans for future: **JS, Bootstrap, Tailwind**
+
+
+
 
 ## Projects
 
@@ -12,7 +22,7 @@ Learning the spells of HTML, CSS, and JavaScript, I'm weaving a new path in the 
 
 
 <details>
-<summary>More here (CLICK TO OPEN)</summary>
+<summary>More projects here (CLICK TO OPEN)</summary>
 
 ### HTML, CSS
 - [Data storage component](https://github.com/solracss/fem-fylo-data-storage-component)
