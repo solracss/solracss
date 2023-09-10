@@ -48,7 +48,11 @@
 
 ## Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,vscode,figma,git,github)
+![Tech Skills](https://skillicons.dev/icons?i=html,css,js,cs)
+<br>
+![Tech Skills](https://skillicons.dev/icons?i=sass)
+<br>
+![Tech Skills](https://skillicons.dev/icons?i=vite,vscode,figma,git,github)
 <br>
 
 ## Contact me
