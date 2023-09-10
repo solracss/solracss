@@ -5,11 +5,11 @@
 <h3 align="center">Welecome on my Github profile</h3>
 
 
-- 🏗 What I'm building now: 
+- 🏗 **Building now:** 
 
-- 👨‍🎓 Learning now: **JavaScript, Bootstrap**
+- 👨‍🎓 **Learning now:** JavaScript, Bootstrap
 
-- 🗺 Plans for future: **Tailwind**
+- 🗺 **Plans for future:** Tailwind
 
 
 
@@ -41,7 +41,7 @@
 
 #### Some other apps that I've build
 
-- [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, login&make reservation
+- [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, simple CRUD
 <br>
 
 ## Tech Stack
@@ -55,7 +55,8 @@
 
 ## Contact me
 
-[![Discord](https://img.shields.io/badge/Contact-C4rlos%239278-blue?label=Discord&logo=discord&logoColor=ffffff)](https://discordapp.com/users/781484299098390529/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/781484299098390529/)
+
 
 ##
 
