@@ -4,14 +4,12 @@
 <h1 align="center">Hi 👋, I'm Solracss</h1>
 <h3 align="center">Welecome on my Github profile</h3>
 
-<p align="center">As a dedicated functional tester by day, I'm following my heart's compass into the realm of frontend development. <br>
-<br>
 
 - 🏗 What I'm building now: 
 
-- 👨‍🎓 Learning now: **Mastering HTML and CSS**
+- 👨‍🎓 Learning now: **JavaScript, Bootstrap**
 
-- 🗺 Plans for future: **JS, Bootstrap, Tailwind**
+- 🗺 Plans for future: **Tailwind**
 
 
 
