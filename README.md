@@ -7,7 +7,7 @@
 
 - 🏗 **Building now:** 
 
-- 👨‍🎓 **Learning now:** JavaScript, Bootstrap
+- 👨‍🎓 **Learning now:** JavaScript
 
 - 🗺 **Plans for future:** Tailwind
 
