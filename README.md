@@ -1,8 +1,9 @@
 <p align="center">
  <img src="https://github.com/solracss/solracss/blob/main/github-header-image.png" align="center">
 </p>
-<h1 align="center">Hi 👋, I'm Solracss</h1>
-<h3 align="center">Software tester doing some frontend stuff</h3>
+Hi 👋, I'm Solracss.
+
+Software tester doing some frontend stuff.
 
 
 ## Projects
