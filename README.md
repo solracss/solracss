@@ -10,8 +10,9 @@ Software tester doing some frontend stuff.
 
 ### Landing Pages
 
-- [Meet landing page](https://github.com/solracss/fem-meet-landing-page)
-- [Equalizer landing page](https://github.com/solracss/fem-equalizer-landing-page)
+- [Workit](https://github.com/solracss/fem-workit-landing-page)
+- [Meet](https://github.com/solracss/fem-meet-landing-page)
+- [Equalizer](https://github.com/solracss/fem-equalizer-landing-page)
 
 
 <details>
