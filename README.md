@@ -2,19 +2,12 @@
  <img src="https://github.com/solracss/solracss/blob/main/github-header-image.png" align="center">
 </p>
 <h1 align="center">Hi 👋, I'm Solracss</h1>
-<h3 align="center">Welecome on my Github profile</h3>
-
-
-- 🏗 **Building now:** 
-
-- 👨‍🎓 **Learning now:** JavaScript
-
-- 🗺 **Plans for future:** Tailwind
-
-
+<h3 align="center">Software tester doing some frontend stuff</h3>
 
 
 ## Projects
+
+### Landing Pages
 
 - [Meet landing page](https://github.com/solracss/fem-meet-landing-page)
 - [Equalizer landing page](https://github.com/solracss/fem-equalizer-landing-page)
@@ -39,9 +32,10 @@
 - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
 </details>
 
-#### Some other apps that I've build
+### REST API
 
-- [Reservation API](https://github.com/solracss/reservation-api#reservation-api) .NET CORE web API, simple CRUD
+[Reservation API](https://github.com/solracss/reservation-api#reservation-api) 
+Simple CRUD to handle reservation. Written in C# .NET CORE.
 <br>
 
 ## Tech Stack
