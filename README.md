@@ -1,12 +1,8 @@
-<p align="center">
- <img src="https://github.com/solracss/solracss/blob/main/github-header-image.png" align="center">
-</p>
 Hi 👋, I'm Solracss.
 
 Software tester doing some frontend stuff.
 
-
-## Projects
+## 👷‍♂️ Projects
 
 ### Landing Pages
 
@@ -34,13 +30,11 @@ Software tester doing some frontend stuff.
 - [QR Component](https://github.com/solracss/FrontendMentor-QR-component)
 </details>
 
-### REST API
-
 [Reservation API](https://github.com/solracss/reservation-api#reservation-api) 
 Simple CRUD to handle reservation. Written in C# .NET CORE.
 <br>
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ![Tech Skills](https://skillicons.dev/icons?i=html,css,js,cs)
 <br>
@@ -49,7 +43,7 @@ Simple CRUD to handle reservation. Written in C# .NET CORE.
 ![Tech Skills](https://skillicons.dev/icons?i=vite,vscode,figma,git,github)
 <br>
 
-## Contact me
+## 📩 Contact me
 
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/781484299098390529/)
 
